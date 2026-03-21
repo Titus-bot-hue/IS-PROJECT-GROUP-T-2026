@@ -35,3 +35,31 @@ The project is based on a secondary school environment where manual systems curr
 ---
 
 ## 📁 Repository Structure
+---
+
+## ⚙️ Technologies Used
+- GitHub (Version Control)
+- Draw.io (System Diagrams)
+- Figma (Prototype Design)
+- Microsoft PowerPoint (Presentation)
+
+---
+
+## 🚀 Usage
+This repository contains all project deliverables. Navigate to the `/docs` folder to access each section of the system design documentation.
+
+---
+
+## 👥 Team Members
+- Team Lead: [Your Name]
+- Members: [Add Names]
+
+---
+
+## 📜 Academic Integrity
+This project is original work developed by the group in compliance with Maseno University academic integrity policies.
+
+---
+
+## 📌 License
+This project is for academic purposes only.
