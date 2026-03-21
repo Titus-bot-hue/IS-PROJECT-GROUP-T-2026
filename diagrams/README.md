@@ -14,3 +14,4 @@ Shows how data flows between:
 ## 3. Entity-Relationship Diagram (ERD)
 - Student, Parent, Teacher, Fees, Attendance, Results tables
 - Relationships between tables
+/diagrams/a_set_of_three_diagrams_for_a_smart_school_informa.png
