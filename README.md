@@ -9,16 +9,23 @@
 
 <!-- Clickable Badges -->
 <p>
-  <a href="./slides/SSIS_Presentation.pdf">
+  <!-- PDF -->
+  <a href="https://github.com/Titus-bot-hue/IS-PROJECT-GROUP-T-2026/blob/main/slides/SSIS_Presentation.pdf">
     <img src="https://img.shields.io/badge/PDF-Ready-brightgreen" alt="PDF Ready"/>
   </a>
+
+  <!-- Docs folder -->
   <a href="./docs">
     <img src="https://img.shields.io/badge/Docs-Complete-blue" alt="Docs Complete"/>
   </a>
+
+  <!-- Prototype folder -->
   <a href="./prototype">
     <img src="https://img.shields.io/badge/Prototype-Ready-yellow" alt="Prototype Ready"/>
   </a>
-  <a href="./slides/SSIS_Presentation.pptx">
+
+  <!-- PowerPoint -->
+  <a href="https://github.com/Titus-bot-hue/IS-PROJECT-GROUP-T-2026/raw/main/slides/SSIS_Presentation.pptx" download>
     <img src="https://img.shields.io/badge/Slides-Ready-red" alt="Slides Ready"/>
   </a>
 </p>
@@ -100,8 +107,8 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 ---
 
 ## 👥 Team Members
-- **Team Lead:**  TITUS MUTUKU 
-- **Members:**  
+- **Team Lead:** TITUS MUTUKU  
+- **Members:**   
 
 ---
 
@@ -145,4 +152,4 @@ Make sure all files are included and referenced correctly:
 ---
 
 ## 📌 License
-This project is for **academic purposes only**.
+This project is for **academic purposes only**. 
