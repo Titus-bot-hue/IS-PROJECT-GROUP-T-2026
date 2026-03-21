@@ -1,4 +1,4 @@
-# 📘 Smart School Information System (SSIS)
+## 🎯 Project Objectives# 📘 Smart School Information System (SSIS)
 ## IS Project Group T - 2026
 
 ---
@@ -10,7 +10,6 @@ The system is designed to digitize school operations including student managemen
 
 ---
 
-## 🎯 Project Objectives
 - Improve efficiency in school operations  
 - Enhance data security and privacy  
 - Enable real-time access to information  
@@ -51,8 +50,8 @@ This repository contains all project deliverables. Navigate to the `/docs` folde
 ---
 
 ## 👥 Team Members
-- Team Lead: [Your Name]
-- Members: [Add Names]
+- Team Lead: TITUS MUTUKU
+- Members: 
 
 ---
 
@@ -63,3 +62,4 @@ This project is original work developed by the group in compliance with Maseno U
 
 ## 📌 License
 This project is for academic purposes only.
+
