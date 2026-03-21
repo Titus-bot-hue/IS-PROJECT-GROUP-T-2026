@@ -1,47 +1,37 @@
-# IS-PROJECT-GROUP-T-2026
+# 📘 Smart School Information System (SSIS)
+## IS Project Group T - 2026
 
-This repository contains the organizational structure and documentation for the IS Project Group T - 2026.
+---
 
-## Table of Contents
-- [Overview](#overview)
-- [Project Overview](#project-overview)
-- [Deliverables](#deliverables)
-- [Organization Structure](#organization-structure)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contributions](#contributions)
-- [License](#license)
+## 📌 Overview
+This repository contains the full system design, documentation, prototype, and presentation materials for the Smart School Information System (SSIS).
 
-## Overview
-The IS Project Group T - 2026 aims to deliver high-quality solutions in line with project specifications and best practices. 
+The system is designed to digitize school operations including student management, fee tracking, academic performance, attendance, and communication.
 
-## Project Overview
-This project is focused on... 
+---
 
-## Deliverables
-1. Deliverable 1: Description.
-2. Deliverable 2: Description.
-3. Deliverable 3: Description.
-4. Deliverable 4: Description.
-5. Deliverable 5: Description.
-6. Deliverable 6: Description.
-7. Deliverable 7: Description.
+## 🎯 Project Objectives
+- Improve efficiency in school operations  
+- Enhance data security and privacy  
+- Enable real-time access to information  
+- Support decision-making through digital systems  
 
-## Organization Structure
-- Team Lead: [Name]
-- Project Manager: [Name]
-- Developer: [Name]
-- Testing Lead: [Name]
+---
 
-## Installation Instructions
-1. Clone the repository.
-2. Install dependencies.
+## 🧩 Project Components (Deliverables)
+1. Organisation Description & Problem Statement (Section 4.1)  
+2. System Design (Section 4.2)  
+3. Privacy by Design (Section 4.3)  
+4. Sustainability Considerations (Section 4.4)  
+5. Cyber-Resilience (Section 4.5)  
+6. Prototype / System Mock-up (Section 4.6)  
+7. Final Documentation & Presentation (Section 4.7)  
 
-## Usage
-Instructions on how to use the project and its deliverables.
+---
 
-## Contributions
-Guidelines for contributors.
+## 🏫 Organisation Context
+The project is based on a secondary school environment where manual systems currently cause inefficiencies, data loss, and poor communication.
 
-## License
-Specify the license under which the project is distributed.
+---
+
+## 📁 Repository Structure
