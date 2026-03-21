@@ -48,12 +48,3 @@ This guide outlines all files and folders that must be included in the final sub
 | slides_outline.md | Slide-by-slide outline |
 | SSIS_Presentation.pdf | Final PDF version of presentation |
 
----
-
-## 5. Submission Notes
-
-- Ensure all **filenames match exactly** as listed above.  
-- All images and diagrams referenced in the documentation and slides **must be included**.  
-- The repository is **fully organized**, so it can be submitted as a **ZIP** or shared as a **GitHub link**.  
-- Double-check **Privacy by Design, Cyber-Resilience, and Sustainability sections** in the docs.  
-- Include this `SUBMISSION_GUIDE.md` file with your submission.
