@@ -7,12 +7,20 @@
 
 <h3 style="color:#4CAF50;">IS Project Group T - 2026</h3>
 
-<!-- Badges -->
+<!-- Clickable Badges -->
 <p>
-  <img src="https://img.shields.io/badge/PDF-Ready-brightgreen" alt="PDF Ready"/>
-  <img src="https://img.shields.io/badge/Docs-Complete-blue" alt="Docs Complete"/>
-  <img src="https://img.shields.io/badge/Prototype-Ready-yellow" alt="Prototype Ready"/>
-  <img src="https://img.shields.io/badge/Slides-Ready-red" alt="Slides Ready"/>
+  <a href="./slides/SSIS_Presentation.pdf">
+    <img src="https://img.shields.io/badge/PDF-Ready-brightgreen" alt="PDF Ready"/>
+  </a>
+  <a href="./docs">
+    <img src="https://img.shields.io/badge/Docs-Complete-blue" alt="Docs Complete"/>
+  </a>
+  <a href="./prototype">
+    <img src="https://img.shields.io/badge/Prototype-Ready-yellow" alt="Prototype Ready"/>
+  </a>
+  <a href="./slides/SSIS_Presentation.pptx">
+    <img src="https://img.shields.io/badge/Slides-Ready-red" alt="Slides Ready"/>
+  </a>
 </p>
 
 </div>
@@ -92,7 +100,7 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 ---
 
 ## 👥 Team Members
-- **Team Lead:** TITUS MUTUKU  
+- **Team Lead:**  TITUS MUTUKU 
 - **Members:**  
 
 ---
