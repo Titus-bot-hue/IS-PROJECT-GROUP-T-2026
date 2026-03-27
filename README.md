@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1 style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-🌟 Smart School Information System (SSIS)
+🌟 SMART SCHOOL INFORMATION SYSTEM (SSIS)
 </h1>
 
 <h3 style="color:#4CAF50;">IS Project Group T - 2026</h3>
@@ -126,39 +126,6 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 8 TITUS MUTUKU 
 
 
-## ✅ Submission Checklist
-
-Make sure all files are included and referenced correctly:
-
-### 1. Documentation (`/docs`)
-- `section4.1/organisation.md` – Organisation & problem statement  
-- `section4.2/README.md` – System design  
-- `privacy_by_design.md` – Privacy measures  
-- `section4.4/README.md` – Sustainability  
-- `cyber_resilience.md` – Cyber-Resilience plan  
-- `section4.6/prototype_description.md` – Prototype description  
-- `final/final_document.md` – Consolidated documentation  
-
-### 2. Diagrams (`/diagrams`)
-- `a_set_of_three_diagrams_for_a_smart_school_informa.png` – Architecture/DFD/ERD  
-- `diagrams_description.md` – Diagrams explanation  
-
-### 3. Prototype (`/prototype`)
-- `admin_dashboard.png`  
-- `teacher_dashboard.png`  
-- `student_portal.png`  
-- `parent_portal.png`  
-- `fee_payment.png`  
-- `prototype_description.md`  
-
-### 4. Slides (`/slides`)
-- `SSIS_Presentation.pptx` – PowerPoint slides  
-- `SSIS_Presentation.pdf` – PDF slides  
-- `slides_outline.md` – Slide outline  
-
-> ✅ All filenames must match exactly and be referenced in docs & slides.
-
----
 
 ## 📌 License
 This project is for **academic purposes only**. 
