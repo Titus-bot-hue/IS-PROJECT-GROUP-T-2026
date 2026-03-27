@@ -107,10 +107,15 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 ---
 
 ## 👥 Team Members
-- **Team Lead:** TITUS MUTUKU  
 - **Members:**   
-
----
+1RAYMOND M'MASI ANJEYO  
+2 KENNEDY MACKENZIE
+3 KEVIN ODHIAMBO
+4 ANDY OMONDI 
+5 TITUS MUTUKU 
+6 JANET TAYIANA NCHARU
+7 MERCY MUTINDA MBENYA 
+8 TITUS MUTUKU  
 
 ## 📜 Academic Integrity
 This project is **original work** developed by the group in compliance with **Maseno University academic integrity policies**.
