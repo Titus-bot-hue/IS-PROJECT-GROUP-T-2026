@@ -1,32 +1,4 @@
-# 4.5 Cyber-Resilience
 
-## ⚠️ Potential Threats
-- Data breaches
-- Unauthorized access
-- System downtime
-
----
-
-## 🛡️ Mitigation Strategies
-
-### 1. Backup Systems
-- Regular automated backups
-
-### 2. Access Control
-- Role-based permissions
-
-### 3. Monitoring & Logging
-- Track system activity
-
-### 4. Incident Response Plan
-- Identify → Contain → Recover
-
----
-
-## 🔄 Recovery Plan
-- Restore system from backups
-- Notify stakeholders
-- Fix vulnerabilities
 # Section 4.5 - Cyber-Resilience
 
 The Smart School Information System (SSIS) is designed to remain operational and secure even under adverse conditions. 
