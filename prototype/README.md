@@ -1,21 +1,4 @@
-# Prototype Description - Smart School Information System (SSIS)
 
-## Minimum Screens
-1. Admin Dashboard  
-2. Teacher Dashboard  
-3. Student Portal  
-4. Parent Portal  
-5. Fee Payment Screen  
-
-## Navigation
-- Login → Dashboard → Module → Actions  
-- Logout option on all screens  
-
-## Key Features Shown
-- Authentication  
-- Data Entry (Students, Fees, Results)  
-- Data Display (Reports, Grades)  
-- Notifications / Alerts
 -  # Prototype Screens - Smart School Information System (SSIS)
 
 The following prototype screens demonstrate key functionalities and user navigation:
