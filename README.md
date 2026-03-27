@@ -109,13 +109,20 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 ## 👥 Team Members
 - **Members:**
 -   
-1RAYMOND M'MASI ANJEYO  
+1RAYMOND M'MASI ANJEYO
+  
 2 KENNEDY MACKENZIE
+
 3 KEVIN ODHIAMBO
-4 ANDY OMONDI 
-5 TITUS MUTUKU 
+
+4 ANDY OMONDI
+
+5 TITUS MUTUKU
+
 6 JANET TAYIANA NCHARU
+
 7 MERCY MUTINDA MBENYA 
+
 8 TITUS MUTUKU  
 
 ## 📜 Academic Integrity
