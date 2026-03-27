@@ -88,7 +88,7 @@ The system digitizes workflows to **streamline operations and enhance data integ
 
 ---
 
-## 📁 Repository Structure---
+## 📁 Repository Structure
 
 ## ⚙️ Technologies Used
 <div style="display:flex; gap: 15px;">
