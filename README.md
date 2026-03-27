@@ -107,7 +107,8 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 ---
 
 ## 👥 Team Members
-- **Members:**   
+- **Members:**
+-   
 1RAYMOND M'MASI ANJEYO  
 2 KENNEDY MACKENZIE
 3 KEVIN ODHIAMBO
