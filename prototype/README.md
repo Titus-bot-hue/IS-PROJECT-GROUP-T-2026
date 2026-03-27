@@ -30,3 +30,33 @@ The following prototype screens demonstrate key functionalities and user navigat
 - Clean layout with school branding  
 - Consistent color scheme  
 - Accessible to all user types
+# 4.6 Prototype / System Mock-up
+
+## 🎨 Overview
+The prototype demonstrates the system’s user interface and functionality.
+
+---
+
+## 📱 Key Interfaces
+
+### Admin Dashboard
+- Manage users
+- View reports
+
+### Teacher Dashboard
+- Mark attendance
+- Upload grades
+
+### Student Portal
+- View results
+- Track attendance
+
+### Parent Portal
+- Monitor progress
+- Check fee status
+
+---
+
+## 💡 Design Tools
+- Figma (UI/UX design)
+- Draw.io (system diagrams)
