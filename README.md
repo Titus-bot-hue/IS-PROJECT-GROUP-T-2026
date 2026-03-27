@@ -123,12 +123,8 @@ Diagrams and prototypes are included in `/diagrams` and `/prototype`.
 
 7 MERCY MUTINDA MBENYA 
 
-8 TITUS MUTUKU  
+8 TITUS MUTUKU 
 
-## 📜 Academic Integrity
-This project is **original work** developed by the group in compliance with **Maseno University academic integrity policies**.
-
----
 
 ## ✅ Submission Checklist
 
