@@ -3,7 +3,7 @@
 ## 1. Architecture Diagram
 
 
-              [ Students ]               [ Teachers ]               [ Parents ]             [ Admin ]
+                    [ Students ]           [ Teachers ]          [ Parents ]         [ Admin ]
          
            
            
@@ -114,7 +114,7 @@ Entities:
                               │ term           │ │                │ │ balance        │ │                    │
                               
                               │ grade          │ │                │ │ payment_date   │ │                    │
-└────────────────┘ └────────────────┘ └────────────────┘ └────────────────────┘
+                              └────────────────┘ └────────────────┘ └────────────────┘ └────────────────────┘
 
 
 
