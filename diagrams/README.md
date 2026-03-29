@@ -3,7 +3,7 @@
 ## 1. Architecture Diagram
 
 
-[ Students ]          [ Teachers ]        [ Parents ]        [ Admin ]
+              [ Students ]               [ Teachers ]               [ Parents ]             [ Admin ]
          
            
            
