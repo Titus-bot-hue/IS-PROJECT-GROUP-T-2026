@@ -1,5 +1,7 @@
 Login Page Interface
-|   SMART SCHOOL INFORMATION SYSTEM (SSIS)      
+
+|   SMART SCHOOL INFORMATION SYSTEM (SSIS) 
+
 -----------------------------------------
 |  Username:  [_________________________]       
 |  Password:  [_________________________]      
@@ -11,6 +13,7 @@ Login Page Interface
 
 
 Admin Dashboard
+
 -------------------------------------------------
 | SSIS DASHBOARD                                
 -------------------------------------------------
@@ -19,14 +22,18 @@ Admin Dashboard
 |                                                
 |  Welcome, Admin                               
 |                                                
-|  [ Total Students: 850 ]                      
-|  [ Total Teachers: 60 ]                      
-|  [ Pending Fees: 120 ]                       
-|                                                
+|  [ Total Students: 850 ]  
+
+|  [ Total Teachers: 60 ] 
+
+|  [ Pending Fees: 120 ]
+
+                                                
 -------------------------------------------------
 
  
  Student Management Screen
+ 
  -------------------------------------------------
 | STUDENT MANAGEMENT                            
 -------------------------------------------------
@@ -41,15 +48,21 @@ Admin Dashboard
  
  
  Attendance Entry Screen
+ 
 | ATTENDANCE & MARK ENTRY                       
 ------------------------------------------------
-| Class: [Select Class ▼]                       
-| Subject: [Select Subject ▼]                  
+| Class: [Select Class ▼] 
+
+| Subject: [Select Subject ▼]
+
+
 -------------------------------------------------
 | Student Name | Marks | Attendance            
 ------------------------------------------------
-| John         | 75    | Present               
-| Mary         | 88    | Present               
+| John         | 75    | Present 
+
+| Mary         | 88    | Present 
+
 -------------------------------------------------
 | [ Save Records ]                              
 -------------------------------------------------
@@ -63,7 +76,8 @@ Admin Dashboard
 -------------------------------------------------
 | Student | Total Fees | Paid | Balance        
 -------------------------------------------------
-| John    | 50,000     | 30K  | 20K            
+| John    | 50,000     | 30K  | 20K 
+
 -------------------------------------------------
 | [ Generate Receipt ]                          
 -------------------------------------------------
