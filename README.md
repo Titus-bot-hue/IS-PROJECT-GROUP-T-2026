@@ -54,7 +54,7 @@ This project presents a **fully digital school management system** designed to r
 - 📅 Attendance Records
   
 
-## 🚀 <span style="color:#43A047;">KEY GOALS (GROWING IMPORTANCE)</span>
+## 🚀 <span style="color:#43A047;">KEY GOALS </span>
 
 - 🟢 Basic Efficiency → Reduce manual work  
 - 🔵 Medium Level → Improve communication flow  
