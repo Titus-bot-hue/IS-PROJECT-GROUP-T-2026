@@ -1,101 +1,163 @@
+========================================================
+🌟 SMART SCHOOL INFORMATION SYSTEM (SSIS)
+IS PROJECT GROUP T - 2026
+========================================================
 
- 
-<div align="center">
+========================
+📘 1. README (GITHUB)
+========================
 
-<h1 style="background: linear-gradient(90deg, #ff7e5f, #feb47b, #43cea2); -webkit-background-clip: text; color: transparent;">
-   🌟 SMART SCHOOL INFORMATION SYSTEM (SSIS)
-</h1>
+SSIS is a digital school management system designed to:
+- Improve efficiency in school operations
+- Enhance data security and privacy
+- Enable real-time access to information
+- Support data-driven decision-making
 
-<h3 style="color:#4CAF50;">IS Project Group T - 2026</h3>
+FEATURES:
+✔ Student Management
+✔ Attendance Tracking
+✔ Fee Management
+✔ Academic Results
+✔ Notifications System
 
-<p>
+SYSTEM USERS:
+- Admin
+- Teacher
+- Student
+- Parent
 
-<a href="https://github.com/Titus-bot-hue/IS-PROJECT-GROUP-T-2026/blob/main/slides/SSIS_Presentation.pdf">
-<img src="https://img.shields.io/badge/PDF-READY-brightgreen"/>
-</a>
+TOOLS USED:
+💻 GitHub
+📊 Draw.io
+🎨 Figma
+📑 PowerPoint
 
-<a href="./docs">
-<img src="https://img.shields.io/badge/DOCUMENTATION-COMPLETE-blue"/>
-</a>
+TEAM MEMBERS:
+1. Raymond M’Masai Anjeyo
+2. Kennedy Mackenzie
+3. Kevin Odhiambo
+4. Andy Omondi
+5. Titus Mutuku (Project Lead)
+6. Janet Tayiana Ncharu
+7. Mercy Mutinda Mbenya
+8. Korir Jepkosgei Shirley
+9. Oluoch Odhiambo
+10. Juliet Achieng
 
-<a href="./prototype">
-<img src="https://img.shields.io/badge/PROTOTYPE-READY-yellow"/>
-</a>
+========================================================
+🧩 2. SYSTEM STRUCTURE (FOLDERS)
+========================================================
 
-<a href="https://github.com/Titus-bot-hue/IS-PROJECT-GROUP-T-2026/raw/main/slides/SSIS_Presentation.pptx">
-<img src="https://img.shields.io/badge/SLIDES-READY-red"/>
-</a>
-
-</p>
-
-</div>
-
----
-
-## 🎯 <span style="color:#1E88E5;">PROJECT OBJECTIVES</span>
-
-The Smart School Information System (**SSIS**) aims to:
-
-- ⚡ <span style="color:#43A047;"><b>Improve efficiency</b></span> in school operations  
-- 🔐 <span style="color:#E53935;"><b>Strengthen security & privacy</b></span> of student data  
-- 📡 <span style="color:#FB8C00;"><b>Enable real-time access</b></span> to academic information  
-- 📊 <span style="color:#8E24AA;"><b>Support smart decision-making</b></span> through data  
-
----
-
-## 📘 <span style="color:#1E88E5;">OVERVIEW</span>
-
-This project presents a **fully digital school management system** designed to replace manual processes with an automated and centralized platform.
-
-### The system handles:
-- 🧑‍🎓 Student Management
-- 💰 Fee Tracking
-- 📚 Academic Performance
-- 📅 Attendance Records
-  
-
-## 🚀 <span style="color:#43A047;">KEY GOALS </span>
-
-- 🟢 Basic Efficiency → Reduce manual work  
-- 🔵 Medium Level → Improve communication flow  
-- 🟠 High Priority → Real-time data access  
-- 🔴 Critical Level → Secure student information system  
-
----
-
-## 🧩 <span style="color:#1E88E5;">PROJECT COMPONENTS</span>
-
-| Section | Description |
-|----------|-------------|
-| <span style="color:#43A047;">4.1</span> | Organisation & Problem Statement |
-| <span style="color:#1E88E5;">4.2</span> | System Design (ERD, DFD, Architecture) |
-| <span style="color:#8E24AA;">4.3</span> | Privacy by Design |
-| <span style="color:#FB8C00;">4.4</span> | Sustainability Considerations |
-| <span style="color:#E53935;">4.5</span> | Cyber-Resilience |
-| <span style="color:#43A047;">4.6</span> | Prototype / UI Mock-ups |
-| <span style="color:#1E88E5;">4.7</span> | Final Documentation |
-
----
-
-## 🏫 <span style="color:#FB8C00;">ORGANISATION CONTEXT</span>
-
-The system is designed for a **secondary school environment**, where:
-
-- ⚠ <span style="color:#E53935;"><b>Manual systems cause inefficiency</b></span>  
-- ⚠ <span style="color:#FB8C00;"><b>Data is often lost or duplicated</b></span>  
-- ⚠ <span style="color:#8E24AA;"><b>Communication is slow and fragmented</b></span>  
-
-👉 SSIS provides a **centralized digital solution**.
-
----
-
-## 📁 <span style="color:#1E88E5;">PROJECT STRUCTURE</span>
-
-```text id="col2b8"
 IS-PROJECT-GROUP-T-2026/
 │
-├── docs/         📘 Documentation
-├── diagrams/     📊 ERD + DFD + Architecture
-├── prototype/    🎨 UI Screens
-├── slides/       🎞 Presentation
-└── README.md     📄 Project Overview
+├── docs/         → Full report (Word/PDF)
+├── diagrams/     → ERD, DFD, Architecture
+├── prototype/    → UI Screens (Figma/images)
+├── slides/       → PowerPoint + PDF
+└── README.md     → Project overview
+
+========================================================
+📊 3. SYSTEM DESIGN
+========================================================
+
+🔷 ERD ENTITIES:
+- User
+- Student
+- Teacher
+- Results
+- Attendance
+- Fees
+- Notification
+
+RELATIONSHIPS:
+User → Student (1:1)
+User → Teacher (1:1)
+Student → Results (1:M)
+Student → Attendance (1:M)
+Student → Fees (1:M)
+User → Notification (1:M)
+
+--------------------------------------------------------
+
+🔷 DFD LEVEL 0:
+External Entities:
+- Admin
+- Teacher
+- Student
+- Parent
+
+System:
+- SSIS Central System
+
+--------------------------------------------------------
+
+🔷 DFD LEVEL 1:
+Processes:
+1. Manage Students
+2. Record Attendance
+3. Process Fees
+4. Generate Reports
+
+Outputs:
+- Reports
+- Notifications
+- Dashboards
+
+========================================================
+🎨 4. PROTOTYPE (UI MOCKUP)
+========================================================
+
+ADMIN DASHBOARD:
+- User management
+- Reports overview
+
+TEACHER DASHBOARD:
+- Attendance marking
+- Grade input
+
+STUDENT PORTAL:
+- View results
+- Check attendance
+
+
+FEE SCREEN:
+- Payments
+- Receipts
+- Balance tracking
+
+========================================================
+🎞️ 5. POWERPOINT SLIDES STRUCTURE
+========================================================
+
+Slide 1 → Title
+Slide 2 → Overview
+Slide 3 → Problem Statement
+Slide 4 → Objectives
+Slide 5 → Users
+Slide 6 → System Architecture
+Slide 7 → ERD
+Slide 8 → DFD
+Slide 9 → Security & Privacy
+Slide 10 → Cyber-Resilience
+Slide 11 → Prototype (Admin/Teacher)
+Slide 12 → Prototype (Student/Parent)
+Slide 13 → Fees System
+Slide 14 → Sustainability
+Slide 15 → Conclusion
+
+========================================================
+📄 6. REPORT STRUCTURE 
+========================================================
+
+4.1 → Organisation & Problem Statement
+4.2 → System Design (ERD + DFD + Architecture)
+4.3 → Privacy by Design
+4.4 → Sustainability
+4.5 → Cyber-Resilience
+4.6 → Prototype (Screens + explanation)
+4.7 → Conclusion
+
+========================================================
+🏁 END OF PROJECT PACKAGE
+========================================================
+
