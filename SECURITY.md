@@ -1,17 +1,3 @@
-# 🔐 Security Policy
-
-## 📌 Supported Versions
-
-The following versions of the Smart School Information System (SSIS) are currently supported with security updates:
-
-| Version | Supported |
-|---------|----------|
-| 1.0.x (Current Release) | ✅ Yes |
-| 0.9.x (Prototype)       | ⚠ Limited Support |
-| < 0.9                   | ❌ No |
-
----
-
 ## 🛡️ Security Overview
 
 The Smart School Information System (SSIS) prioritizes:
