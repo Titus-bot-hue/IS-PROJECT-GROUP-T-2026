@@ -1,32 +1,32 @@
 Login Page Interface
 
-|   SMART SCHOOL INFORMATION SYSTEM (SSIS) 
+SMART SCHOOL INFORMATION SYSTEM (SSIS) 
 
 -----------------------------------------
-|  Username:  [_________________________]       
-|  Password:  [_________________________]      
-|                                                
-|  [ Login ]                                     
-|                                                
-|  Forgot Password?                              
+  Username:  _________________________      
+  Password:  _________________________     
+                                                
+  [ Login ]                                     
+                                                
+  Forgot Password?                              
 -----------------------------------------------
 
 
 Admin Dashboard
 
 -------------------------------------------------
-| SSIS DASHBOARD                                
+   SSIS DASHBOARD                                
 -------------------------------------------------
-| Users | Students | Fees | Attendance | Reports
+ Users | Students | Fees | Attendance | Reports
 -------------------------------------------------
-|                                                
-|  Welcome, Admin                               
-|                                                
-|  [ Total Students: 850 ]  
+                                               
+  Welcome, Admin                               
+                                               
+  [ Total Students: 850 ]  
 
-|  [ Total Teachers: 60 ] 
+  [ Total Teachers: 60 ] 
 
-|  [ Pending Fees: 120 ]
+  [ Pending Fees: 120 ]
 
                                                 
 -------------------------------------------------
@@ -35,42 +35,43 @@ Admin Dashboard
  Student Management Screen
  
  -------------------------------------------------
-| STUDENT MANAGEMENT                            
+ STUDENT MANAGEMENT                            
 -------------------------------------------------
-| Add Student                                   
-| Search: [_____________]                       
+ Add Student                                   
+ Search: [_____________]                       
 -------------------------------------------------
-| ID | Name | Class | Admission No | Actions   
+ ID | Name | Class | Admission No | Actions   
 -------------------------------------------------
-| 001 | John  | 2A    | 1234       | Edit/Delete
-| 002 | Mary  | 3B    | 1235       | Edit/Delete
+ 001 | John  | 2A    | 1234       | Edit/Delete
+ 
+ 002 | Mary  | 3B    | 1235       | Edit/Delete
 
  
  
  Attendance Entry Screen
  
-| ATTENDANCE & MARK ENTRY                       
+ ATTENDANCE & MARK ENTRY                       
 ------------------------------------------------
-| Class: [Select Class ▼] 
+ Class: [Select Class ▼] 
 
-| Subject: [Select Subject ▼]
+ Subject: [Select Subject ▼]
 
 
 -------------------------------------------------
-| Student Name | Marks | Attendance            
+ Student Name | Marks | Attendance            
 ------------------------------------------------
-| John         | 75    | Present 
+ John         | 75    | Present 
 
-| Mary         | 88    | Present 
+ Mary         | 88    | Present 
 
 -------------------------------------------------
-| [ Save Records ]                              
+ [ Save Records ]                              
 -------------------------------------------------
 
  
  Fees Management Screen
  -------------------------------------------------
-| FEES MANAGEMENT                               
+ FEES MANAGEMENT                               
 -------------------------------------------------
 | Search Student: [___________]                
 -------------------------------------------------
