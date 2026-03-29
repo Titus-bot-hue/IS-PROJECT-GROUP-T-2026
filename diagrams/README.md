@@ -1,15 +1,23 @@
 # Diagrams for Smart School Information System (SSIS)
 
 ## 1. Architecture Diagram
+
+
 [ Students ]          [ Teachers ]        [ Parents ]        [ Admin ]
+         
+           
+           
            \              |                |              /
             \             |                |             /
+               
+                
                
                 
                 --------- Internet / HTTPS ----------
                         
                          
                                |
+               
                 [ Web Application Server ]
                       
                         
@@ -17,10 +25,15 @@
                            |
               -------------------------
              
+           
+              
               |                       |
      [ Authentication System ]   [ Business Logic ]
             
-              |                       |
+           
+              
+              
+                |                       |  
               ----------- Database -----------
                    
                       (SSIS DB)
@@ -56,8 +69,10 @@ Entities:
             │                            
             
             │
+
+
 ┌────────────────────┐               ┌────────────────────┐
-│      STUDENT       │               │      TEACHER       │
+│      STUDENT │               │      TEACHER       │
 │────────────────────│               │────────────────────│
 │ student_id         │               │ teacher_id         │
 │ user_id            │               │ user_id            │
