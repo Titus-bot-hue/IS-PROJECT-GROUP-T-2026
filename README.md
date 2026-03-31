@@ -135,7 +135,7 @@ Available in `/prototype`
 
 ---
 
-## 👥 Team Members (FULL LIST)
+## 👥 Team Members 
 
 1. Titus Mutuku  
 2. Raymond M’Masai Anjeyo  
