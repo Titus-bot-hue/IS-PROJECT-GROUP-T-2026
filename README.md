@@ -1,172 +1,174 @@
+<div align="center">
 
 # 🌟 SMART SCHOOL INFORMATION SYSTEM (SSIS)
 
 ### 📚 IS Project Group T — 2026
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Project-Smart%20School%20System-8A2BE2"/>
-  <img src="https://img.shields.io/badge/📘%20Documentation-Complete-0A66C2"/>
-  <img src="https://img.shields.io/badge/🎨%20Prototype-Ready-FFB300"/>
-  <img src="https://img.shields.io/badge/📊%20Slides-Available-E53935"/>
-  <img src="https://img.shields.io/badge/🔐%20Security-High-2E7D32"/>
+<p>
+  <img src="https://img.shields.io/badge/🚀%20Project-Smart%20System-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📘%20Docs-Complete-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎨%20Prototype-Ready-FFB300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊%20Slides-Available-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐%20Security-High-2E7D32?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <b>Transforming School Management into a Smart, Secure & Data-Driven Ecosystem</b>
-</p>
+<b>Transforming School Management into a Smart, Secure & Data-Driven Ecosystem</b>
+
+</div>
+
+---
+
+## 🚀 Quick Access
+
+- 📊 **Diagrams:** https://eu.docworkspace.com/d/sbOakpTCnMUjtp3i_0tqzk123khq7gtyzsh?sa=601.1074  
+- 🎞 **Slides:** ./slides  
+- 📘 **Docs:** ./docs  
+- 🎨 **Prototype:** ./prototype  
 
 ---
 
 ## ✨ Project Overview
 
-The **Smart School Information System (SSIS)** is a centralized digital platform designed to modernize school operations by replacing inefficient manual processes with an **automated, secure, and intelligent system**.
+The **Smart School Information System (SSIS)** is a centralized digital platform designed to replace manual school processes with an automated and secure system.
 
-> 💡 SSIS enhances efficiency, improves communication, and enables real-time access to school data.
+> 💡 Improves efficiency, communication, and real-time access to school data.
 
 ---
 
 ## 🎯 Project Objectives
 
-* ⚡ Improve efficiency in school operations
-* 🔐 Strengthen security and privacy of student data
-* 📡 Enable real-time access to academic information
-* 📊 Support data-driven decision-making
+- ⚡ Improve efficiency in school operations  
+- 🔐 Strengthen security & privacy  
+- 📡 Enable real-time access  
+- 📊 Support data-driven decision-making  
 
 ---
 
 ## 🧠 System Overview
 
-SSIS integrates all core school functions into one unified system.
+### Core Modules:
+- 🧑‍🎓 Student Management  
+- 💰 Fee Management  
+- 📚 Academic System  
+- 📅 Attendance Tracking  
 
-### 🧩 Core Modules
-
-* 🧑‍🎓 **Student Management** — Registration, profiles, records
-* 💰 **Fee Management** — Payments, balances, tracking
-* 📚 **Academic System** — Results, grading, analytics
-* 📅 **Attendance Tracking** — Daily attendance monitoring
-* 📢 **Communication System** — Notifications and updates
 
 ---
 
 ## 🏫 Problem Statement
 
-Traditional school systems face several challenges:
+- ❌ Manual processes  
+- ❌ Data duplication/loss  
+- ❌ Poor communication  
+- ❌ Limited access  
 
-* ❌ Manual and inefficient processes
-* ❌ Data duplication and loss
-* ❌ Poor communication
-* ❌ Limited access to information
+### ✅ Solution
 
-### ✅ Proposed Solution
+- ✔ Centralized system  
+- ✔ Automated workflows  
+- ✔ Secure data handling  
+- ✔ Real-time access  
 
-SSIS provides:
+---
 
-* ✔ Centralized system
-* ✔ Automated workflows
-* ✔ Secure data handling
-* ✔ Real-time access
+## 📊 System Diagrams
+
+👉 Open here:  
+https://eu.docworkspace.com/d/sbOakpTCnMUjtp3i_0tqzk123khq7gtyzsh?sa=601.1074  
+
+Includes:
+- ERD  
+- DFD Level 0 & 1  
+- Architecture  
 
 ---
 
 ## 🎨 Prototype
 
-UI mockups are available in the `/prototype` directory and demonstrate:
-
-* Clean dashboard design
-* Easy navigation
-* User-friendly interface
+Available in `/prototype`  
+- Dashboards  
+- Navigation  
+- User interfaces  
 
 ---
 
 ## 🧩 Project Components
 
-| Section | Description                            |
-| ------- | -------------------------------------- |
-| 4.1     | Organisation & Problem Statement       |
-| 4.2     | System Design (ERD, DFD, Architecture) |
-| 4.3     | Privacy by Design                      |
-| 4.4     | Sustainability Considerations          |
-| 4.5     | Cyber-Resilience                       |
-| 4.6     | Prototype                              |
-| 4.7     | Final Documentation                    |
+| Section | Description |
+|--------|------------|
+| 4.1 | Organisation & Problem |
+| 4.2 | System Design |
+| 4.3 | Privacy by Design |
+| 4.4 | Sustainability |
+| 4.5 | Cyber-Resilience |
+| 4.6 | Prototype |
+| 4.7 | Documentation |
 
 ---
 
 ## 📁 Project Structure
-
-```text
-IS-PROJECT-GROUP-T-2026/
-│
-├── docs/         Documentation
-├── diagrams/     ERD, DFD, Architecture
-├── prototype/    UI Mockups
-├── slides/       Presentation Files
-└── README.md     Project Overview
-```
-
 ---
 
 ## 🔐 Security & Privacy
 
-SSIS follows **Privacy by Design** principles:
-
-* Role-based access control
-* Secure data storage
-* Protection against unauthorized access
+- Role-Based Access Control  
+- Secure authentication  
+- Data protection  
+- Privacy by Design  
 
 ---
 
 ## 🌱 Sustainability
 
-* Reduced paper usage
-* Efficient digital workflows
-* Lower operational costs
+- Paperless system  
+- Reduced costs  
+- Efficient workflows  
 
 ---
 
 ## 🛡 Cyber-Resilience
 
-The system ensures:
-
-* Data protection
-* System reliability
-* Recovery from failures
+- Data backup  
+- Secure network  
+- Threat monitoring  
+- Recovery plans  
 
 ---
 
-## 👥 Team Members
+## 👥 Team Members (FULL LIST)
 
-* Titus Mutuku
-* Raymond M’Masai Anjeyo
-* Kennedy Mackenzie
-* Kevin Odhiambo
-* Andy Omondi
-* Janet Tayiana Ncharu
-* Mercy Mutinda Mbenya
-* Korir Jepkosgei Shirley
-* Oluoch Odhiambo
-* Juliet Achieng
+1. Titus Mutuku  
+2. Raymond M’Masai Anjeyo  
+3. Kennedy Mackenzie  
+4. Kevin Odhiambo  
+5. Andy Omondi  
+6. Janet Tayiana Ncharu  
+7. Mercy Mutinda Mbenya  
+8. Korir Jepkosgei Shirley  
+9. Oluoch Odhiambo  
+10. Juliet Achieng  
 
 ---
 
 ## 📊 Project Resources
 
-* 📄 Presentation (PDF)
-* 🎞 Slides 
-* 📘 Documentation
-* 🎨 Prototype
+- 📄 Documentation  
+- 🎞 Slides  
+- 📊 Diagrams  
+- 🎨 Prototype  
 
-
+---
 
 ## ⭐ Conclusion
 
-The **Smart School Information System (SSIS)** is a scalable, secure, and efficient solution designed to transform school management into a modern digital ecosystem.
+SSIS is a secure, scalable, and efficient system designed to modernize school management.
 
 ---
 
 ## 📬 Contact
 
-For collaboration or inquiries, use the repository link
+Use the repository for collaboration or inquiries.
 
 ---
 
+⭐ If you like this project, give it a star!
