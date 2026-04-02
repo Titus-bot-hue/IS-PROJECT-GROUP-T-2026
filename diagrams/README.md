@@ -120,5 +120,5 @@ Entities:
 
 
 
-       <img width="1536" height="1024" alt="file_00000000162071fdbf585c69a9da2d5e" src="https://github.com/user-attachments/assets/c187af7e-5fb2-4da9-a3f7-8518fdd8bedc" />
+  
 
