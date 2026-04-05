@@ -1,3 +1,5 @@
+PROTYPE
+
 Login Page Interface
 
 SMART SCHOOL INFORMATION SYSTEM (SSIS) 
