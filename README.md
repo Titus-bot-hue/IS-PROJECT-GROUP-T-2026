@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/🚀%20Project-Smart%20System-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📘%20Docs-Complete-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PROTOTYPE-READY-yellow"/>
-</(https://github.com/user-attachments/assets/4055937c-c271-4cc7-a944-850615ce3154)
- >
-
   <img src="https://img.shields.io/badge/📊%20Slides-Available-E53935?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐%20Security-High-2E7D32?style=for-the-badge"/>
 </p>
