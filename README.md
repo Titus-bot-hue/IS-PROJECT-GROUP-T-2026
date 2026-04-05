@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/🚀%20Project-Smart%20System-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📘%20Docs-Complete-0A66C2?style=for-the-badge"/>
   <img src="/🎨%20Prototype-Ready-FFB300?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊%20Slide(https://github.com/user-attachments/assets/76cb84fe-8a32-4b27-aca2-1c1995046c0b)
-s-Available-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊%20Slides-Available-E53935?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐%20Security-High-2E7D32?style=for-the-badge"/>
 </p>
 
