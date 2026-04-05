@@ -85,3 +85,5 @@ Admin Dashboard
 | [ Generate Receipt ]                          
 -------------------------------------------------
 
+  (https://github.com/user-attachments/assets/05a3e2e6-3624-4b3c-ab5d-b7dcdad7ebe1)
+    
