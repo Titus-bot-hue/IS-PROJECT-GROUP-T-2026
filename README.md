@@ -72,10 +72,6 @@ The **Smart School Information System (SSIS)** is a centralized digital platform
 ---
 
 ## 📊 System Diagrams
-
-👉 Open here:  
-https://eu.docworkspace.com/d/sbOakpTCnMUjtp3i_0tqzk123khq7gtyzsh?sa=601.1074  
-
 Includes:
 - ERD  
 - DFD Level 0 & 1  
