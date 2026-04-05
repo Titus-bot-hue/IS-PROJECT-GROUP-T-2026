@@ -100,7 +100,6 @@ Available in `/prototype`
 | 4.4 | Sustainability |
 | 4.5 | Cyber-Resilience |
 | 4.6 | Prototype |
-| 4.7 | Documentation |
 
 ---
 
