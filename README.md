@@ -83,6 +83,8 @@ Includes:
 
 ---
 
+   <img width="1536" height="1024" alt="file_00000000162071fdbf585c69a9da2d5e" src="https://github.com/user-attachments/assets/07edfd10-bd24-49ca-b7a2-fe69964b8ff2" />
+
 ## 🎨 Prototype
 
 Available in `/prototype`  
