@@ -1,4 +1,4 @@
-PROTYPE
+    P  R  O T Y  P E
 
 Login Page Interface
 
