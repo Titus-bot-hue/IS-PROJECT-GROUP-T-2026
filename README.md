@@ -5,8 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/🚀%20Project-Smart%20System-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📘%20Docs-Complete-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PROTOTYPE-READY-yellow"/(https://github.com/user-attachments/assets/5ad75d20-ab21-493e-92fa-d3e54fae542a)>
-  
+  <img src="https://img.shields.io/badge/ PROTOTYPE-READY-yellow"/>
   <img src="https://img.shields.io/badge/📊%20Slides-Available-E53935?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🔐%20Security-High-2E7D32?style=for-the-badge"/>
 </p>
