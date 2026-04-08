@@ -131,16 +131,16 @@ Available in `/prototype`
 
 ## 👥 Team Members 
 
-1. Titus Mutuku  
-2. Raymond M’Masai Anjeyo  
-3. Kennedy Mackenzie  
-4. Kevin Odhiambo  
-5. Andy Omondi  
-6. Janet Tayiana Ncharu  
-7. Mercy Mutinda Mbenya  
+1. TITUS MUTUKU  
+2. KEVIN ODHIAMBO
+3. KENNEDY MACKENZIE  
+4. RAYMOND M’MASAI ANJEYO 
+5. ANDY OMONDI  
+6. JANET TAYIANA NCHARU  
+7. MERCY MUTINDA MBENYA  
 8. STANLEY OTIENO NYAGWETH  
-9. Oluoch Odhiambo  
-10. Juliet Achieng  
+9. OLUOCH ODHIAMBO  
+10. JULIET ACHIENG  
 11. JAMAL ABDI HARUN 
 12. JEPKOECH MILDRED 
 13. MUNYANG'OLI OTALO COLLINS 
@@ -149,7 +149,7 @@ Available in `/prototype`
 16. MILTON LEPORE B
 17. BENSON KOONYI 
 18. DALMAS CHACHA 
-19. PHILIP MUUO 
+19. PHILIP MUUO
 
 
 ## 📊 Project Resources
